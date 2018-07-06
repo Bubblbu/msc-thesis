@@ -6,9 +6,9 @@
     "livereload": "grunt server -type html"
   },
   "dependencies": {
-    "grunt": "^0.4.5",
-    "grunt-cli": "^0.1.13",
-    "grunt-contrib-watch": "^0.6.1",
+    "grunt": "^1.0.3",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-watch": "^1.1.0",
     "grunt-make": "^1.0.0",
     "grunt-notify": "^0.4.1",
     "grunt-parallel": "^0.5.1"
