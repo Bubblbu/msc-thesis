@@ -1,0 +1,9 @@
+{
+    "MD026": false,
+    "MD013": false,
+    "markdownlint.ignore": [
+        "source/01_title_page.md",
+        "source/02_statement.md",
+        "source/18_references.md"
+    ]
+}
